@@ -29,15 +29,6 @@ Hover animations
 
 Book Now button → opens the booking form
 
-Pages include:
-
-silence 2 (fifth.html)
-
-Fighter (seventh.html)
-
-Bhediya / Tiger style pages (fourth.html, sixth.html)
-
-More animated detail pages in thirdp.html
 
 ⭐ 3. Upcoming Movies Page (eight.html)
 
